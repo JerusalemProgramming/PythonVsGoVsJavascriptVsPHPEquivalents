@@ -127,9 +127,9 @@ if WhateverCondition {
 
 ## PHP
 if (WhateverCondition) {
-     // code to be executed If WhateverCondition is true
+     // code to be executed if WhateverCondition is true
 } else {
-     // code to be executed if If WhateverCondition is otherwise
+     // code to be executed if WhateverCondition is otherwise
 }
 
 
