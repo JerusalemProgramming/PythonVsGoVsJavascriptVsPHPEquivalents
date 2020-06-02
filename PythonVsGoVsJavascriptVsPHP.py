@@ -256,7 +256,7 @@ var JavascriptArray.push(AnyVariableName);
 ## GO (GOLANG)
 
 ## PHP - INDEXED ARRAY
-
+$PHPIndexedArray[] = $AnyVariableName;
 
 
 ## POP ELEMENT FROM LIST / ARRAY
