@@ -48,6 +48,8 @@ var AnyVariableName string = "700"
 ## GO (GOLANG) - STRING - VERSION 3 - SHORTCUT INFERS TYPE
 AnyVariableName := "700"
 
+## PHP
+$AnyVariableName = "Whatever String, Number, or other Object"
 
 ## PRINT TO CONSOLE
 ## PRINT TO CONSOLE
