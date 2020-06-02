@@ -84,6 +84,7 @@ reflect.TypeOf(AnyVariableName)
 
 ## PHP
 gettype($AnyVariableName);
+var_dump($AnyVariableName);
 
 ## RETURN LENGTH OF OBJECT
 ## RETURN LENGTH OF OBJECT
