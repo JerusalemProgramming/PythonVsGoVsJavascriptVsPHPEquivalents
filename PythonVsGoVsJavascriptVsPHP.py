@@ -83,7 +83,7 @@ typeof(AnyVariableName);
 reflect.TypeOf(AnyVariableName)
 
 ## PHP
-
+gettype($AnyVariableName);
 
 ## RETURN LENGTH OF OBJECT
 ## RETURN LENGTH OF OBJECT
