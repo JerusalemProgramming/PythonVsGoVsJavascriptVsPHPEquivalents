@@ -51,9 +51,9 @@ AnyVariableName := "700"
 ## PHP
 $AnyVariableName = "Whatever String, Number, or other Object"
 
-## PRINT TO CONSOLE
-## PRINT TO CONSOLE
-## PRINT TO CONSOLE
+## PRINT OUTPUT TO CONSOLE
+## PRINT OUTPUT TO CONSOLE
+## PRINT OUTPUT TO CONSOLE
 
 ## PYTHON
 print(AnyVariableName)
@@ -63,6 +63,8 @@ console.log(AnyVariableName);
 
 ## GO (GOLANG)
 fmt.Println(AnyVariableName)
+
+## PHP
 
 ## CHECK TYPE OF OBJECT
 ## CHECK TYPE OF OBJECT
@@ -77,6 +79,7 @@ typeof(AnyVariableName);
 ## GO (GOLANG)
 reflect.TypeOf(AnyVariableName)
 
+## PHP
 
 
 ## RETURN LENGTH OF OBJECT
@@ -92,6 +95,7 @@ AnyVariableName.length;
 ## GO (GOLANG)
 len(AnyVariableName)
 
+## PHP
 
 
 ## IF / ELSE CONDITIONALS
@@ -184,7 +188,7 @@ switch i {
 	default: fmt.Println("Unknown Number")
 }
 
-
+## PHP
 
 ## EQUIVALENCY OPERATOR
 ## EQUIVALENCY OPERATOR
@@ -210,7 +214,12 @@ if (1 == 1) {
      fmt.Println("else AlternateCondition goes here")
 }
 
-
+## PHP
+if (1 == 1) { // WhateverCondition
+ // code to be executed 
+} else {
+ // code to be executed 
+}
 
 
 
@@ -227,7 +236,7 @@ let JavascriptArray = [];
 
 ## GO (GOLANG)
 
-
+## PHP
 
 
 ## ADD ELEMENT TO LIST / ARRAY
@@ -242,6 +251,7 @@ var JavascriptArray.push(AnyVariableName);
 
 ## GO (GOLANG)
 
+## PHP
 
 
 ## POP ELEMENT FROM LIST / ARRAY
@@ -256,6 +266,8 @@ var JavascriptArray.pop(AnyVariableName);
 
 ## GO (GOLANG)
 
+## PHP
+
 
 ## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
 ## CREATE PYTHON DICTIONARY / JAVASCRIPT OBJECT
@@ -269,7 +281,7 @@ var JavascriptObject = {};
 
 ## GO (GOLANG)
 
-
+## PHP
 
 
 ## FOR LOOPS
@@ -302,7 +314,9 @@ for i := 1; i <= 5; i++ {
      fmt.Println(i) // CHANGE THIS TO ARRAY LATER
 }
 
+## PHP
 
+	
 ## GAME OVER
     
 ## WE HOPE YOU ENJOYED AND THAT THIS HELPS YOUR UNDERSTANDING OF USING PYTHON / GO / JAVASCRIPT / PHP LANGUAGEs TO SOLVE PROBLEMS WITH PROGRAMMING
