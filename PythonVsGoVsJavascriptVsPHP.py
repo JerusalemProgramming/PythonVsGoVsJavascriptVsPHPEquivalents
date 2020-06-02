@@ -241,7 +241,7 @@ let JavascriptArray = [];
 ## GO (GOLANG)
 
 ## PHP - INDEXED ARRAY
-
+$PHPIndexedArray = [];
 
 ## ADD ELEMENT TO LIST / ARRAY
 ## ADD ELEMENT TO LIST / ARRAY
@@ -255,7 +255,8 @@ var JavascriptArray.push(AnyVariableName);
 
 ## GO (GOLANG)
 
-## PHP
+## PHP - INDEXED ARRAY
+
 
 
 ## POP ELEMENT FROM LIST / ARRAY
