@@ -65,6 +65,9 @@ console.log(AnyVariableName);
 fmt.Println(AnyVariableName)
 
 ## PHP
+echo($AnyVariableName); // PARENTHESES OPTIONAL
+print($AnyVariableName); // PARENTHESES OPTIONAL
+
 
 ## CHECK TYPE OF OBJECT
 ## CHECK TYPE OF OBJECT
