@@ -1,11 +1,10 @@
-## PYTHON VS. GO (GOLANG) VS. JAVASCRIPT EQUIVALENTS
+## PYTHON VS. GO (GOLANG) VS. JAVASCRIPT VS. PHP EQUIVALENTS
 ## WORK-IN-PROGRESS
 ## CHECK BACK SOON FOR UPDATES; PLEASE COME BACK AGAIN SOON
 ## PLEASE VISIT OUR WEB SITES (OUR PROBLEM-SOLVING PROGRAMMING, CODING, & DEVELOPMENT SERVICES ARE AVAILABLE FOR HIRE):
 ## www.JerusalemProgrammer.com
 ## www.JerusalemProgrammers.com
 ## www.JerusalemProgramming.com
-
 
 ## DECLARE VARIABLES
 ## DECLARE VARIABLES
@@ -117,6 +116,13 @@ if WhateverCondition {
      fmt.Println("else AlternateCondition goes here")
 }
 
+## PHP
+if (WhateverCondition) {
+     // code to be executed If WhateverCondition is true
+} else {
+     // code to be executed if If WhateverCondition is otherwise
+}
+
 
 ## IF / ELSE IF / ELSE CONDITIONALS
 ## IF / ELSE IF / ELSE CONDITIONALS
@@ -148,7 +154,14 @@ if WhateverCondition {
   return
 }
 
-
+## PHP
+if (WhateverCondition) {
+ // code to be executed 
+} elseif (ElseIfCondition) {
+ // code to be executed 
+} else {
+ // code to be executed 
+}
 
 ## SWITCH CASE
 ## SWITCH CASE
@@ -290,7 +303,7 @@ for i := 1; i <= 5; i++ {
 
 ## GAME OVER
     
-## WE HOPE YOU ENJOYED AND THAT THIS HELPS YOUR UNDERSTANDING OF USING PYTHON / GO / JAVASCRIPT LANGUAGEs TO SOLVE PROBLEMS WITH PROGRAMMING
+## WE HOPE YOU ENJOYED AND THAT THIS HELPS YOUR UNDERSTANDING OF USING PYTHON / GO / JAVASCRIPT / PHP LANGUAGEs TO SOLVE PROBLEMS WITH PROGRAMMING
 ## PLEASE COME BACK AGAIN SOON
 ## PLEASE VISIT OUR WEB SITES (OUR PROBLEM-SOLVING PROGRAMMING, CODING, & DEVELOPMENT SERVICES ARE AVAILABLE FOR HIRE):
 ## www.JerusalemProgrammer.com
