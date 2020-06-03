@@ -49,7 +49,7 @@ var AnyVariableName string = "700"
 AnyVariableName := "700"
 
 ## PHP
-$AnyVariableName = "Whatever String, Number, or other Object"
+$AnyVariableName = "Whatever String, Number, or other Object";
 
 ## PRINT OUTPUT TO CONSOLE
 ## PRINT OUTPUT TO CONSOLE
