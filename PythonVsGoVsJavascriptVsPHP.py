@@ -194,6 +194,16 @@ switch i {
 }
 
 ## PHP
+switch($AnyVariableName) {
+   case value1:
+     //
+     break;
+   case value2:
+     //
+     break;
+   default:
+     //
+}
 
 ## EQUALITY / EQUIVALENCY OPERATOR
 ## EQUALITY / EQUIVALENCY OPERATOR
