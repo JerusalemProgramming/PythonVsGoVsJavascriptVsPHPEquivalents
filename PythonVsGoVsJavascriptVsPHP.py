@@ -194,9 +194,9 @@ switch i {
 
 ## PHP
 
-## EQUIVALENCY OPERATOR
-## EQUIVALENCY OPERATOR
-## EQUIVALENCY OPERATOR
+## EQUALITY / EQUIVALENCY OPERATOR
+## EQUALITY / EQUIVALENCY OPERATOR
+## EQUALITY / EQUIVALENCY OPERATOR
 
 ## PYTHON
 if 1 == 1:  ## WhateverCondition
@@ -220,9 +220,11 @@ if (1 == 1) {
 
 ## PHP
 if (1 == 1) { // WhateverCondition
- // code to be executed 
+  echo("ECHO: If WhateverCondition is true");
+  print("PRINT: If WhateverCondition is true");	     
 } else {
- // code to be executed 
+  echo("ECHO:  else AlternateCondition goes here");
+  print("PRINT:  else AlternateCondition goes here");
 }
 
 
