@@ -333,7 +333,9 @@ for i := 1; i <= 5; i++ {
 }
 
 ## PHP
-
+for ($i = 1; $i <= 5; $i++) {
+   echo("</br>$i");  // CHANGE THIS TO APPEND TO ARRAY LATER
+}
 	
 ## GAME OVER
     
