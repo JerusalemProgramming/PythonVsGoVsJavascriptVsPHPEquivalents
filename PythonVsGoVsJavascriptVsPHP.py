@@ -336,6 +336,20 @@ for i := 1; i <= 5; i++ {
 for ($i = 1; $i <= 5; $i++) { // ## INITIALIZE COUNTER; SET CONDITION FOR FOR LOOP; INCREMENT COUNTER
    echo("</br>$i");  // CHANGE THIS TO APPEND TO ARRAY LATER
 }
+
+
+## WHILE LOOPS
+## WHILE LOOPS
+## WHILE LOOPS
+
+## PYTHON
+## JAVASCRIPT
+## GO (GOLANG)	
+
+## PHP
+while (WhateverCondition) {
+   // DO WHATEVER...
+}
 	
 ## GAME OVER
     
