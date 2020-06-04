@@ -350,6 +350,26 @@ for ($i = 1; $i <= 5; $i++) { // ## INITIALIZE COUNTER; SET CONDITION FOR FOR LO
 while (WhateverCondition) {
    // DO WHATEVER...
 }
+
+
+## DEFINE FUNCTIONS
+## DEFINE FUNCTIONS
+## DEFINE FUNCTIONS
+
+## PYTHON
+def FunctionName:
+    print("Hello World")
+
+## JAVASCRIPT
+
+## GO (GOLANG)	
+
+## PHP
+function FunctionName() {
+    echo 'Hello World!';
+}
+
+
 	
 ## GAME OVER
     
