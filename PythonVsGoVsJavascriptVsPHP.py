@@ -369,7 +369,22 @@ function FunctionName($AnyVariableName) {
     echo($AnyVariableName);
 }
 
+## RETURN VALUE
+## RETURN VALUE
+## RETURN VALUE
 
+## PYTHON
+def FunctionName(AnyVariableName):
+    return(AnyVariableName)
+
+## JAVASCRIPT
+
+## GO (GOLANG)	
+
+## PHP
+function FunctionName($AnyVariableName) {
+    return($AnyVariableName);
+}
 	
 ## GAME OVER
     
