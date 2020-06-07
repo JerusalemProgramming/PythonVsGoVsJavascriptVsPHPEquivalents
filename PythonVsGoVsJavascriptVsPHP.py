@@ -357,16 +357,16 @@ while (WhateverCondition) {
 ## DEFINE FUNCTIONS
 
 ## PYTHON
-def FunctionName:
-    print("Hello World")
+def FunctionName(AnyVariableName):
+    print(AnyVariableName)
 
 ## JAVASCRIPT
 
 ## GO (GOLANG)	
 
 ## PHP
-function FunctionName() {
-    echo 'Hello World!';
+function FunctionName($AnyVariableName) {
+    echo($AnyVariableName);
 }
 
 
